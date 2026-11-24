@@ -1,0 +1,6 @@
+{
+  "name": "寸止监看",
+  "description": "CUNZHI01 局域网 MQTT 遥测监看工具，支持手机端内置 MQTT Broker 与 easysmart.local mDNS 发现，或接入已有 Broker 实时查看两路压力趋势、电量、计数与全部设备属性。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
